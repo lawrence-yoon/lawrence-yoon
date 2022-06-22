@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sadpandaemoji
-- 👀 I’m interested in full stack web development
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning Reactjs
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me: sadpandaemoji@gmail.com
