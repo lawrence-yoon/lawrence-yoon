@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sadpandaemoji
+- 👋 Hi, I’m @sadpandaemoji, a javascript developer
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning react.js for the MERN stack
 - 💞️ I’m looking to collaborate on web development
