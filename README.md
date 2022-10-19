@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sadpandaemoji
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning react.js for the MERN stack
-- 💞️ I’m looking to collaborate on web development
+- 👋 Hi, I’m Lawrence Yoon, aka @sadpandaemoji
+- 👀 I’m interested in software development
+- 🌱 I’m currently looking for employment as a full stack developer
+- 💞️ I’m looking to collaborate on open source applications
 - 📫 How to reach me: sadpandaemoji@gmail.com
 
 <!---
